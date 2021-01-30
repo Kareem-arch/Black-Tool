@@ -46,7 +46,7 @@ print (   )
 
 print( g +"["+ y +"1"+ w +"]" + w +"[" +g+"-----"+ r +"install Metasploot"+ y +"]")
 system('sleep 0.1')
-print( y +"["+ g +"2+ w +"]" + w + "["+g+"----" +r+"password Android" +y+"]" )
+print( y +"["+ g +"2"+ w +"]" + w + "["+g+"----" +r+"password Android" +y+"]" )
 system('sleep 0.1')
 print( y +"["+ g +"3"+ w +"]" + w + "["+g+"----" +r+"hack fasbook" +y+"]" )
 system('sleep 0.1')
