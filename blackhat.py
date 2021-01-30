@@ -8,7 +8,7 @@ y= '\033[1;33m'
 c= '\033[1;36m'
 w= '\033[1;37m'
 print("\033[1;31m          Welcome to my Tool   ")
-print("\033[1;32m    ShadoW--{ ^_^ }--Welcome To Tool mahmod ")
+print("\033[1;32m    ShadoW--{ ^_^ }--Welcome To Tool Haker7x   ")
 
 
 
